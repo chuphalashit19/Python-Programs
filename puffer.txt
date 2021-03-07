@@ -1,0 +1,26 @@
+men,LaPasa,jacket,59.99
+men,Starter,jacket,26.05 
+men,Dickies,jacket,39.99
+men,Vedoms,jacket,47.88
+men,Dockers,jacket,79.99
+men,Guess,coat,96.83
+toddler,Kim Jung,jacket,21.99
+men,ValueKer,jacket,49.99
+women,Valuker,jacket,54.50
+women,Valuker,coat,104.99
+women,Amazon Essentials,coat,49.50
+women,Invicta,coat,250.00
+men,Invicta,coat,225.00
+women,Little Donkey,jacket,39.99,
+women,NorthFace,coat,107.52
+men,NorthFace,jacket,179.95,,
+women,Woman Within,jacket,48.07
+women,Zinray,jacket,49.50
+men,RokkaRolla,coat,89.99
+women,Kingeru,coat,104.99
+women,Sichyuan,coat,104.99
+women,Bellivera,coat,72.99
+men,Calvin Klien,coat,79.99
+women,Calvin Klien,coat,106.97
+women,Grammercy,coat,106.97
+men,Levis,jacket,79.99

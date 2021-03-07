@@ -1,0 +1,4 @@
+1 KM 199, Kamuting junction
+2 KM 241.9, Kuala Kangsar junction
+3 KM 296.1, Gopeng junction
+4 KM 372.6, Slim River junction
