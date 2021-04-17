@@ -1,0 +1,18 @@
+Phone        First name
+-------------------------
+2587          Bruce
+6958          Amir
+5263          Rebecca
+5253          John
+8965          Mirnam
+9632          Sundar
+1002          Steve
+5478          Micheal
+8885          Anwar
+4696          Jack
+9898          Chee
+7412          Andrew
+7547          Dragos
+
+
+ ########## End of directory ########## 
